@@ -1,4 +1,4 @@
-# droplr.sh
+# droplr.sh <sub><sup>v0.0.0</sup></sub>
 
 Upload files to Droplr via the command line. Files are uploaded as notes (current limitation of Droplr).
 

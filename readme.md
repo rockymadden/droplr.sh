@@ -1,6 +1,6 @@
 # droplr.sh
 
-Upload files as notes to Droplr via the command line.
+Upload files to Droplr via the command line. Files are uploaded as notes (current limitation of Droplr).
 
 ## Installation
 Download `droplr.sh` and make it available in your `PATH`:

@@ -9,11 +9,6 @@ Download `droplr.sh` and make it available in your `PATH`:
 $ curl -o /usr/local/bin/droplr https://raw.githubusercontent.com/rockymadden/droplr.sh/master/droplr.sh && chmod 0755 /usr/local/bin/droplr
 ```
 
-## Dependencies
-
-1. Droplr installed and running
-2. Droplr system shortcut unchanged from default
-
 ## Usage
 
 ```bash
@@ -27,6 +22,11 @@ $ droplr ./notes.txt
 ```bash
 $ droplr /Users/rockymadden/desktop/notes.txt
 ```
+
+## Dependencies
+
+1. Droplr installed and running
+2. Droplr system shortcut unchanged from default
 
 ## License
 
